@@ -1,6 +1,4 @@
 
-This template is a starting point for you customize as you review a code change. If a section is not relevant, feel free to just replace its contents with some italized text with the reason it's not used.
-
 
 #### Requirements
 
